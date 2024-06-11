@@ -3,7 +3,7 @@ title: "TFG"
 author: "Llorenç Gontan"
 date: '2024-05-02'
 output: html_document
-
+----
 #Carreguem llibreries
 
 library(sf)
